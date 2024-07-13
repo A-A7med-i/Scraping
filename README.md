@@ -51,3 +51,7 @@ This section explains your main scraping script (`script.py` or similar). Briefl
 ## Contributing
 
 If you plan to allow contributions to your project, outline your contribution guidelines. Provide information on how others can contribute to your project.
+
+## LICENSE
+
+[MIT License](LICENSE)
